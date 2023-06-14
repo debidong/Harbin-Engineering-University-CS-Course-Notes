@@ -1,5 +1,8 @@
 # 微机接口
 
+*Author: Yang Bowen*
+
+*Last modified: 2023/5/21*
 # 8086 Microprocessor
 
 1. 8086按功能分：
