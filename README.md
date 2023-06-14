@@ -3,5 +3,5 @@
 
 This repo is for archiving some of the course content notes compiled during the final exam review.
 ## 已入档
-现代密码学
-微机系统与接口
+- 现代密码学
+- 微机系统与接口
