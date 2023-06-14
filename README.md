@@ -4,7 +4,7 @@
 This repo is for archiving some of the course content notes compiled during the final exam review, for the purpose of study.
 
 ## 已归档
-- 现代密码学
-- 微机系统与接口
-- 计算机组成原理
-- 数据库系统原理
+- 现代密码学, 96/100
+- 微机系统与接口, 81/100
+- 计算机组成原理, 85/100
+- 数据库系统原理, 91/100
